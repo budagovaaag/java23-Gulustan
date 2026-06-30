@@ -47,6 +47,7 @@ public class DersPR3 {
 		l/=10;
 		}
 		System.out.println(min);
+		
 	}
 	
 	
