@@ -58,6 +58,8 @@ public class Mainrunner {
 		System.out.println("COMP1 " + "ID:"+ comp1.id + " BRAND:"+ comp1.brand+" MODEL:"+comp1.model+" COLOR:"+comp1.color);
 		System.out.println("COMP2 " + "ID:"+ comp2.id + " BRAND:"+ comp2.brand+" MODEL:"+comp2.model+" COLOR:"+comp2.color);
 		System.out.println("COMP3 " + "ID:"+ comp3.id + " BRAND:"+ comp3.brand+" MODEL:"+comp3.model+" COLOR:"+comp3.color);
+	
 	}
+	
 
 }
