@@ -13,6 +13,18 @@ public class MainClass {
 		calculator.calculateSalary(p);
 		
 		p.printInfo();
+		
+		
+		
+		
+		
+		Circle c=new Circle();
+		c.radius=6;
+		
+		Calculator calc=new Calculator();
+		calc.calculateCircleLength(c);
+		System.out.println(c.length);
+		
 	}
 	
 
