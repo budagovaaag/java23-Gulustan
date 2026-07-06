@@ -2,9 +2,7 @@ package ders9;
 
 public class Mainrunner {
 	public static void main(String[] args) {
-		Car bmw=new Car("e39" , "black" , 0 , 15000); 
-		bmw.start();
-		bmw.stop();
+		
 		
 	//book
 		Book book1=new Book();
